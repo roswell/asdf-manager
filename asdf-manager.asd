@@ -3,9 +3,9 @@
   :maintainer "Fernando Borretti <eudoxiahp@gmail.com>"
   :license "MIT"
   :version "0.1"
-  :homepage ""
-  :bug-tracker ""
-  :source-control (:git "")
+  :homepage "https://github.com/roswell/asdf-manager"
+  :bug-tracker "https://github.com/roswell/asdf-manager/issues"
+  :source-control (:git "git@github.com:roswell/asdf-manager.git")
   :depends-on (:uiop
                :trivial-download
                :trivial-extract)
