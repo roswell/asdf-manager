@@ -1,5 +1,7 @@
 # asdf-manager
 
+[![Build Status](https://travis-ci.org/roswell/asdf-manager.svg?branch=master)](https://travis-ci.org/roswell/asdf-manager)
+
 Download and manage ASDF versions.
 
 # Overview
